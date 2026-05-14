@@ -1,1 +1,3 @@
 # billing-mailer
+
+## Setup
